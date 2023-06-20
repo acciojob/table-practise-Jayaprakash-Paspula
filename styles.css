@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+table,th,td{
+	background:2px yellow;
+	border:2px solid black;
+}
